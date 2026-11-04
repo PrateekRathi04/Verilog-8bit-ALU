@@ -118,14 +118,6 @@ Verilog-8bit-ALU/
 - Understanding Verilog testbench development.
 - Analyzing simulation waveforms and RTL schematics.
 
-## References and Attribution
-
-This project is maintained as an educational RTL design project.
-
-Original reference: [8-bit ALU Verilog – VishalRoy08](https://github.com/VishalRoy08/8-bit-ALU-Verilog).
-
-Please refer to the included LICENSE file for applicable reuse and redistribution terms.
-
 ---
 
 <p align="center">
